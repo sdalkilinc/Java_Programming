@@ -1,0 +1,12 @@
+package day02_escapeSequences;
+
+public class ErrorPrinting {
+    public static void main(String[] args) {
+
+        //System.out.println("Hello Java Developers");
+
+        //System.err.println("Hello Future Developers"); short cut of this is 'serr'
+
+        System.err.println("Hello World");
+    }
+}
